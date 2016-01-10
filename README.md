@@ -63,7 +63,7 @@ git clone --recursive git://github.com/smairesse/play-java-tuto-globalSettings.g
 
 ## License
 
-Copyright (c) 2015-... Stéphane Mairesse, https://github.com/smairesse
+Copyright (c) 2015-... Stéphane Mairesse (https://github.com/smairesse)
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
