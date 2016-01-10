@@ -12,7 +12,6 @@ import java.io.File;
 import java.lang.ClassLoader;
 
 /**
- * @author Stéphane Mairesse
  * @see https://www.playframework.com/documentation/2.x.x/JavaGlobal
  * @see https://www.playframework.com/documentation/2.x.x/api/java/play/GlobalSettings.html
  */
