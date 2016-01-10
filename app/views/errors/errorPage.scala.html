@@ -1,0 +1,10 @@
+@(requestMethod: String, requestUri: String, requestPath: String, throwableDescription: String, throwableMessage: String)
+
+@main("Error") {
+
+	<h1>Oops, an error occurred</h1>
+	<p>Request method : @requestMethod</p>
+	<p>Request URI : @requestUri</p>
+	<p>Throwable Message : @throwableMessage</p>
+
+}

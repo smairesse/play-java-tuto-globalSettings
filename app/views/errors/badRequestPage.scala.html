@@ -1,0 +1,11 @@
+@(requestMethod: String, requestUri: String, requestPath: String, error: String)
+
+@main("Error") {
+
+	<h1>Don't try to hack the URI!</h1>
+	<p>Request method : @requestMethod</p>
+	<p>Request path : @requestPath</p>
+	<p>Request URI : @requestUri</p>
+	<p>Error : @error</p>
+
+}
