@@ -29,7 +29,7 @@ Vous pouvez redéfinir les méthodes ```onHandlerNotFound```, ```onBadRequest```
 
 ## Download
 
-https://github.com/smairesse/play-java-tuto-globalSettings.git/archive/master.zip
+https://github.com/smairesse/play-java-tuto-globalSettings/archive/master.zip
 
 or 
 
