@@ -89,6 +89,8 @@ git clone --recursive git://github.com/smairesse/play-java-tuto-globalSettings.g
 |:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|
 | :x:                | :x:                | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 
+> Consulter la note [*Removing `GlobalSettings`*](https://www.playframework.com/documentation/2.4.x/GlobalSettings) à partir de V2.4.x
+
 ## License
 
 Copyright (c) 2015-... Stéphane Mairesse (https://github.com/smairesse)
