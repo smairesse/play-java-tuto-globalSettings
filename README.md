@@ -65,7 +65,7 @@ or
 git clone --recursive git://github.com/smairesse/play-java-tuto-globalSettings.git
 ```
 
-## Compatibility
+## Compatibilité
 
 ### APIs
 
