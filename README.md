@@ -57,7 +57,7 @@ public class Global extends GlobalSettings {
 
 ## Download
 
-[Archive ZIP](https://github.com/smairesse/play-java-tuto-globalSettings/archive/master.zip)
+[Télécharger le code source](https://github.com/smairesse/play-java-tuto-globalSettings/archive/master.zip)
 
 or 
 
